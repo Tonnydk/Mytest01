@@ -1,4 +1,3 @@
 /*REXX*/
 say "Hello"
-say "Hello again"
 exit 0
